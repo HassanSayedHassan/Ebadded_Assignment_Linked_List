@@ -2,10 +2,6 @@
 #include <accctrl.h>
 #include <time.h>
 #include <assert.h>
-typedef struct Node Node;
-typedef struct student student;
-typedef struct data_birth data_birth;
-
 
 typedef struct Node Node;
 typedef struct student student;
